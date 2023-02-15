@@ -1,3 +1,5 @@
+#This project helps you connect your deployed contract with React application
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
