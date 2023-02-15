@@ -1,4 +1,4 @@
-#This project helps you connect your deployed contract with React application
+# This project helps you connect your deployed contract with React application
 
 # Getting Started with Create React App
 
